@@ -15,8 +15,8 @@ I am passionate about health informatics and data analytics within healthcare. I
 - Georgia State University | Graduated: May 2025
 
 # Here you will see:
-## Graduate Work (Rutgers University)
-- Coding and research projects 
+## Graduate Work (Rutgers University) : Coding and Research coursework
+- SAS Project - Final.pdf
 ## Undergraduate Work (Georgia State University)
 - Public health projects and coursework
 ## Personal Projects
