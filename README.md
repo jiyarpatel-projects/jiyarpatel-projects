@@ -1,16 +1,46 @@
-## Hi there 👋
+# **Jiya Patel**
+## *Health Informatics | Data Analytics | Healthcare Technology*
+I am passionate about health informatics and data analytics within healthcare. I enjoy bridging the gap between technology, data, and people. I have a strong interest in data organization, analysis, and entry, with experience in public health and health informatics.
 
-<!--
-**jiyarpatel-projects/jiyarpatel-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently seeking internships and opportunities in health informatics, data analytics, and data entry roles within the healthcare sector.**
 
-Here are some ideas to get you started:
+📧 Email: jiyarpatel.work@gmail.com
+💼 LinkedIn: linkedin.com/in/jiyarpatel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🎓Education
+**Masters of Science in Health Informatics**
+- Rutgers University | Expected Graduation: May 2027
+
+**Bachelors of Science in Public Health**
+- Georgia State University | Graduated: May 2025
+
+# Here you will see:
+## Graduate Work (Rutgers University)
+- Coding and research projects 
+## Undergraduate Work (Georgia State University)
+- Public health projects and coursework
+## Personal Projects
+- Independent data analytics and health informatics projects coming soon
+
+# 🧰Technical Skills
+##Programming & Analysis
+- SAS Programming
+- Python Programming
+- Statistical Analysis
+- Data Visualization
+
+# Healcare Domains:
+- Health Informatics
+- Public Health Research
+- Clinical Data Analysis
+
+# Tools & Software:
+- Microsoft Office Suite
+- Tableau
+
+## 📧 Let's Connect
+I'm actively seeking internships and entry-level opportunities in: 
+- Health Informatics
+- Healthcare Data Analytics
+- Data Entry & Management
+- Healthcare Technology
