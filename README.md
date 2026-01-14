@@ -16,7 +16,7 @@ I am passionate about health informatics and data analytics within healthcare. I
 
 # Here you will see:
 ## Graduate Work (Rutgers University) : Coding and Research coursework
-- [The Effects of Drug A on Fasting Sugar Levels: A Two-Way ANOVA Analysis](https://github.com/jiyarpatel-projects/Graduate-Work/blob/873c62cc1d74c82054b528758f4b91686d1c0d32/Effect_of_Drug_A_on_Fasting_Sugar_Two_Way_ANOVA.pdf)→
+- [The Effects of Drug A on Fasting Sugar Levels: A Two-Way ANOVA Analysis](https://github.com/jiyarpatel-projects/Graduate-Work/tree/142f33cb78e57059a4f52a9b6629befba025e999/Two_Way_ANOVA_DrugA_Project)→
 ## Undergraduate Work (Georgia State University)
 - Public health projects and coursework
 ## Personal Projects
