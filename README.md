@@ -16,7 +16,7 @@ I am passionate about health informatics and data analytics within healthcare. I
 
 # Here you will see:
 ## Graduate Work (Rutgers University) : Coding and Research coursework
-- SAS Project - Final.pdf
+- [The Effects of Drug A on Fasting Sugar Levels: A Two-Way ANOVA Analysis](Effect_of_Drug_A_on_Fasting_Sugar_Two_Way_ANOVA.pdf)→
 ## Undergraduate Work (Georgia State University)
 - Public health projects and coursework
 ## Personal Projects
