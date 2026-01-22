@@ -17,7 +17,7 @@ I am passionate about health informatics and data analytics within healthcare. I
 # Here you will see:
 ## [Graduate Work (Rutgers University)](https://github.com/jiyarpatel-projects/Graduate-Work) : Coding and Research coursework
 - [The Effects of Drug A on Fasting Sugar Levels: A Two-Way ANOVA Analysis](https://github.com/jiyarpatel-projects/Graduate-Work/tree/142f33cb78e57059a4f52a9b6629befba025e999/Two_Way_ANOVA_DrugA_Project)→
-## Undergraduate Work (Georgia State University)
+## [Undergraduate Work (Georgia State University)](https://github.com/jiyarpatel-projects/Undergraduate-Work.git) : Public Health coursework
 - Public health projects and coursework
 ## [Personal Projects](https://github.com/jiyarpatel-projects/Self-Projects)
 - [Emergency Room Visits Dashboard using Data.world](https://public.tableau.com/app/profile/jiya.patel6783/viz/EmergencyRoomVisitsSelfProject/Dashboard1?publish=yes)
